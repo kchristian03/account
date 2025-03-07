@@ -1,0 +1,19 @@
+Sites   : scite.ai 
+Username: uclibrary001@gmail.com
+Password: Cambridge0012024
+Note    : -
+
+Sites   : grammarly.com
+Username: uclibrary001@gmail.com
+Password: Cambridge00120242025
+Note    : -
+
+Sites   : turnitin.com
+Username: Turnitin09@ciputra.ac.id
+Password: Turnitin10!?
+Note    : UC All Region & Faculty
+
+Sites   : turnitin.com
+Username: Turnitin10@ciputra.ac.id
+Password: Turnitin10!?
+Note    : UC Informatics
